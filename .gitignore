@@ -1,0 +1,26 @@
+# Secrets / local configuration
+StudentManagement.API/appsettings.json
+StudentManagement.API/appsettings.*.json
+
+# ASP.NET / .NET generated files
+**/bin/
+**/obj/
+
+# Flutter generated files
+student_management_app/.dart_tool/
+student_management_app/build/
+student_management_app/.flutter-plugins
+student_management_app/.flutter-plugins-dependencies
+student_management_app/.packages
+
+# IDE files
+.idea/
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User-uploaded files
+StudentManagement.API/wwwroot/uploads/
